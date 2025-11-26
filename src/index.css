@@ -1,3 +1,10 @@
+html {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 body {
     background-color: #333;
     color: whitesmoke;
